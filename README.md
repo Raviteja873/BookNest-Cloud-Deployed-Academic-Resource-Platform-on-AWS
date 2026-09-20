@@ -1,0 +1,2 @@
+# BookNest-Cloud-Deployed-Academic-Resource-Platform-on-AWS
+BookNest is a Flask-based academic resource platform deployed on AWS using a custom VPC, public subnets, Internet Gateway, EC2, Application Load Balancer, security groups, Nginx, and Gunicorn. It provides semester-wise PDF resources, admin uploads, session-based access, and SQLite storage, demonstrating end-to-end cloud deployment and web hosting.
