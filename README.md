@@ -801,9 +801,9 @@ These improvements would move the architecture toward a more production-oriented
 
 ## 22. Author
 
-**Author:** `<YOUR_NAME>`
+**Author:** `Raviteja`
 
-**GitHub:** `https://github.com/<YOUR_GITHUB_USERNAME>`
+**GitHub:** `https://github.com/Raviteja873`
 
 **Project:** BookNest – MCA Academic Companion
 
